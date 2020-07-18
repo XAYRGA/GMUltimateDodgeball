@@ -1,0 +1,1 @@
+language.Add("trigger_hurt","The Map")
